@@ -6,7 +6,6 @@ use Illuminate\Http\Request;
 
 class SaludoController extends Controller
 {
-    //
     public function index(){
         return "¡Hola UAB!";
     }
